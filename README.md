@@ -31,6 +31,22 @@ Google Gemini	AI Language Model
 Extract From File Node	PDF Text Extraction
 Google Drive Create File	Save Corrected Document
 📂 Workflow Architecture
+Google Drive Trigger
+        │
+        ▼
+Download PDF File
+        │
+        ▼
+Extract Text From PDF
+        │
+        ▼
+Google Gemini AI Agent
+        │
+        ▼
+Create Corrected Text File
+        │
+        ▼
+Google Drive
 
 🔄 Workflow Explanation
 1. Google Drive Trigger
