@@ -48,6 +48,9 @@ Create Corrected Text File
         ▼
 Google Drive
 
+# Workflow visual
+![image alt](https://github.com/n8n-workflows-projects/AI-grammer-checker/blob/e1b357beb030a4b485371706dec9b124df5f7ef4/Screenshot%202026-07-05%20121523.png)
+
 🔄 Workflow Explanation
 1. Google Drive Trigger
 Watches a specific folder.
