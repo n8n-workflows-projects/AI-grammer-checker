@@ -48,9 +48,6 @@ Create Corrected Text File
         ▼
 Google Drive
 
-# Workflow visual
-![image alt](https://github.com/n8n-workflows-projects/AI-grammer-checker/blob/e1b357beb030a4b485371706dec9b124df5f7ef4/Screenshot%202026-07-05%20121523.png)
-
 🔄 Workflow Explanation
 1. Google Drive Trigger
 Watches a specific folder.
@@ -117,11 +114,12 @@ Improved grammar
 Correct spelling
 Better readability
 Professional sentence structure
-📷 Workflow Screenshot
-
-Add your workflow screenshot here.
+📷 Workflow Design
+![image alt](https://github.com/n8n-workflows-projects/AI-grammer-checker/blob/e1b357beb030a4b485371706dec9b124df5f7ef4/Screenshot%202026-07-05%20121523.png)
 
 images/workflow.png
+
+
 📋 Prerequisites
 
 Before running this workflow, make sure you have:
@@ -141,6 +139,7 @@ Activate the workflow.
 Upload a PDF to the monitored folder.
 Wait for the workflow to process the document.
 View the corrected file in Google Drive.
+
 📈 Use Cases
 Student assignment correction
 Resume grammar improvement
@@ -151,6 +150,7 @@ Content writing assistance
 Educational institutions
 Documentation review
 🎯 Learning Outcomes
+
 
 This project demonstrates how to:
 
