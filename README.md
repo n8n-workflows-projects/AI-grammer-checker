@@ -118,6 +118,7 @@ Professional sentence structure
 ![image alt](https://github.com/n8n-workflows-projects/AI-grammer-checker/blob/e1b357beb030a4b485371706dec9b124df5f7ef4/Screenshot%202026-07-05%20121523.png)
 
 images/workflow.png
+![image alt](https://github.com/n8n-workflows-projects/AI-grammer-checker/blob/aa5aba23026ee00a65a740cee1212cc595f6d39f/Screenshot%202026-07-05%20122214.png)
 
 
 📋 Prerequisites
